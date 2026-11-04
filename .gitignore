@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+# Build outputs
+target/
+out/
+build/
+.gradle/
+*.class
+# macOS and temporary files
+.DS_Store
+*.log
+*.tmp
+*.swp
+*~
+# Local secrets
+.env
+.env.*
+*.pem
+*.key
